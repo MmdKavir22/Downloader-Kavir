@@ -6,7 +6,7 @@
 - [archive_20260508_120338](./archive_20260508_120338)
 - [openjfx-26.0.1_windows-x64_bin-sdk](./openjfx-26.0.1_windows-x64_bin-sdk)
 - [vs_BuildTools](./vs_BuildTools)
-- [vs_BuildTools_sun](./vs_BuildTools_sun)
+- [vs_BuildTools_omega](./vs_BuildTools_omega)
 
 ---
 

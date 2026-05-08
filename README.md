@@ -99,6 +99,8 @@
 
 ---
 
+---
+
 ## Files downloaded to your GitHub
 
 1. [NDI 6 Tools](https://github.com/MmdKavir22/Downloader-Kavir/tree/main/downloads/NDI%206%20Tools)
@@ -113,6 +115,6 @@
 
 6. [vs_BuildTools](https://github.com/MmdKavir22/Downloader-Kavir/tree/main/downloads/vs_BuildTools)
 
-7. [vs_BuildTools_sun](https://github.com/MmdKavir22/Downloader-Kavir/tree/main/downloads/vs_BuildTools_sun)
+7. [vs_BuildTools_omega](https://github.com/MmdKavir22/Downloader-Kavir/tree/main/downloads/vs_BuildTools_omega)
 
 ---
